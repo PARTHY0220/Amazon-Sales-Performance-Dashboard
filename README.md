@@ -21,7 +21,7 @@ The dashboard helps in tracking key metrics like revenue, orders, product catego
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
